@@ -7,7 +7,7 @@
 
 ## 1 谈论你的兴趣爱好 
 
-> 2018-04-15
+> 2018-04-16
 
 No!
 Yeah!
@@ -29,7 +29,93 @@ I don't know.
 His thumb?
 Oh, uh, uh ... wrong picture.
 
+> ---
 
+No!
+Yeah. 
+Ha-ha!
+I win again.
+Jake, you're terrible at computer games.
+//Yeah, I don't play them all day. Like Simon does.
+Well, I don't play them all day, like Simon does.
+Yeah, yeah.
+I have other interests.
+Let me guess. Stamp collecting.
+Very funny. 
+//I interested in cooking, for example.
+Actually, I have lots of hobbies. I am interested in cooking, for example.
+//I like running.
+//I interested in photography, and I quite good at it.
+And I like running. And photography.
+Yeah, I'm quite good at it.
+//Can we see some your picture?
+Can we see of your pictures?
+Uh, sure.
+What is it?
+I don't know.
+His thumb?
+Oh, uh, uh ... wrong picture.
+
+
+### words
+
+taking photographs 摄影
+doing puzzles 拼图
+stamp collecting 集邮
+cooking 做饭
+running 跑步
+reading 阅读
+drawing 绘画
+sewing 缝纫
+woodworking 木工
+
+### Syntaxes
+
+> 询问他人喜欢做的事情
+
+What are you interested in?
+What do you like doing?
+
+> 表示喜欢做某事
+
+interested in + v-ing
+
+I'm interested in sewing.
+
+> 回答对某件事的掌握程度
+
+good / bad / terrible / okay at + v-ing
+
+I'm bad at cooking.
+She's good at drawing.
+We're terrible at doing puzzles.
+He's okay at woodworking.
+
+> 表示收集某物品
+
+collect + n-s
+n + collecting
+
+I collect stamps.
+I enjoy stamp collecting.
+
+> 表示属于某俱乐部
+
+belong to + ... club
+
+We belong to a book club
+
+> 表示是什么队伍里
+
+on + ... team
+
+They're on the running team.
+
+> 与朋友交往
+
+get together with
+
+I like getting together with friends.
 
 ## 2 询问他人的兴趣
 
