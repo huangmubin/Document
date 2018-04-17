@@ -139,6 +139,57 @@ Sometimes. I have some tomatoes this year.
 Sweet.
 They are, actually. You'd be surprised.
 
+> 
+
+衬衫不错，Todd.
+Joan, 谢谢。这是意大利买的。
+酷。
+嗯，意大利真不错。我经常去那里。我的叔叔来自 Milan.
+喔！我喜欢旅行。但是现在还没什么钱。
+真遗憾。
+还好吧。我在家附近也干了不少有趣的事。
+比如？
+嗯，像去电影院。哦，我还会画点油画。
+真不错。
+我还有点小园艺。
+园艺？在公寓里？
+嗯，就是些花花草草什么的。在阳台上。
+你有种过蔬菜吗？
+有时候。今年我种了西红柿。
+真好。
+他们，真的，你会很惊喜。
+
+> 
+
+Nice shirt, Todd.
+// Thank you, Join. It's from Italy.
+Oh, thanks, Join. It's from Italy.
+Cool.
+// Umm, Italy's great. 
+Yeah, Italy's great.
+I go there pretty often. My uncle's from Milan.
+Wow, I love traveling. But I don't have much money right now.
+That's too bad.
+// It's okay. 
+That't okay.
+I do fun things near home.
+Like what?
+// I like going to the theater. Oh, and I have a little oil painting.
+Well, I like going to the theater. Umm, I do a little oil painting.
+Nice.
+// I have a little gradening.
+And I have a little garden.
+// Gradening? In the apartment?
+Gardening? In an apartment?
+Oh, just some flowers and things. On the balcony.
+Do you ever grow vegetables?
+Sometimes. I have some tomatoes this year.
+Sweet.
+They are, actually. 
+// You'd surprised.
+You'd be surprised.
+
+> 
 
 I'm into doing things at home.
 Like what?
@@ -148,6 +199,88 @@ I garden every day.
 What else do you like doing?
 I sometimes listen to music.
 
+> 
+
+Do you like going to the theater?
+Uh, no, not really.
+Oh, I love the theater!
+How often do you go?
+I'm always at the theater.
+Really? I rarely go.
+So what do you usually do?
+Well, I watch TV. And I sometimes read comic books.
+Hmm. Do you ever go to art exhibits?
+Uh, no.
+
+### Words
+
+going to the theater        看电影
+collecting comic books      收集漫画书
+gardening                   园艺
+camping                     露营
+going to an exhibit         看展览     
+writing                     写作
+oil painting                油画
+birdwatching                观鸟
+fishing                     钓鱼
+traveling                   旅行
+
+> 频率副词
+
+always      100%
+usually      80%
+often        60%
+sometimes    40%
+rarely       20%
+never         0%
+
+### Syntaxes
+
+> 询问频率
+
+how often
+
+How often do you travel?
+Well, I go to China every summer.
+
+> 询问是否有参加什么活动
+
+do you ever
+
+Do you ever go fishing?
+No, I don't.
+
+> 频率副词位于句中的 be 动词之后，但是在所有其他动词之前
+
+Are you ever late to work?
+No, I'm never late!
+
+How often do you go to the theater?
+I rarely go. It's too expensive.
+
+> 询问兴趣爱好
+
+What does she enjoy doing?
+She enjoys birdwatching.
+
+What's she into?
+She's really into art.
+
+> 使用问句 Like what? 询问更多信息，回答用 like + v-ing.
+
+I do fun things near home.
+Like what?
+Like collecting comic books.
+
+> 使用 what else 询问其他兴趣爱好
+
+What else do you like to do?
+Well, I really like gardening.
+
+> 非正式对话中，可以把 Be 动词的一般疑问句改成省略形式。去掉 be 然后句尾升调。
+
+Are you good at it?     You good at it?
+Does she like sewing?   She like sewing
 
 ## 3 谈论你的一个兴趣
 
