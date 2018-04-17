@@ -119,6 +119,36 @@ I like getting together with friends.
 
 ## 2 询问他人的兴趣
 
+> 2018-04-17
+
+Nice shirt, Todd.
+Oh, thanks, Joan. It's from Italy.
+Cool.
+Yeah. Italy's great. I go there pretty often. My uncle's from Milan.
+Wow! I love traveling. But I don't have much money right now.
+That's too bad.
+That's okay. I do fun things near home.
+Like what?
+Well, like going to the theater. Umm, I do a little oil painting.
+Nice.
+And I have a little garden.
+Gardening? In an apartment?
+Oh, just some flowers and things. On the balcony.
+Do you ever grow vegetables?
+Sometimes. I have some tomatoes this year.
+Sweet.
+They are, actually. You'd be surprised.
+
+
+I'm into doing things at home.
+Like what?
+Oh, like gardening, and drawing.
+How often do you garden?
+I garden every day.
+What else do you like doing?
+I sometimes listen to music.
+
+
 ## 3 谈论你的一个兴趣
 
 ## 4 为来访同事制定计划
