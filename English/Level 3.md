@@ -284,6 +284,20 @@ Does she like sewing?   She like sewing
 
 ## 3 谈论你的一个兴趣
 
+> 2018-04-19
+
+Whoa! Look at that.
+I love my birthday presents.
+Thanks very much.
+Thanks, darling.
+Emma? Play us a song on your guitar.
+Dad, I can't play the guitar.
+Yes, you can.
+Anyway, it's my birthday.
+OK.
+Bravo!
+She can play the guitar.
+
 ## 4 为来访同事制定计划
 
 # 单元 2 地点
