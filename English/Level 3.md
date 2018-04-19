@@ -298,6 +298,59 @@ OK.
 Bravo!
 She can play the guitar.
 
+>
+
+Three people in my family can play a musical instrument. I play the saxophone. My father and mother play the violin. My sister can't play an instrument, but she can sing. Sometimes, people ask us to play a song.
+
+>
+
+Whoa! Look at that.
+I love my birthday presents.
+Thanks very much.
+Thanks, darling.
+//Emma? Play us a song in your guitar.
+Emma? Play us a song on your guitar.
+Dad, I can't play the guitar.
+Yes, you can.
+Anyway, it's my birthday.
+OK.
+Bravo!
+She can play the guitar.
+
+### Words
+
+saxophone   萨克斯
+flute       长笛
+violin      小提琴
+trumpet     小号
+guitar      吉他
+cello       大提琴
+piano       钢琴
+drums       鼓
+
+### Syntaxes
+
+> 询问他人的音乐才能
+
+Can you play a musical instrument?
+
+> 使用 can / can't 表示会什么不会什么
+
+Yes, I can play the piano.
+I can't play the guitar.
+
+> 使用 a 搭配 musical instrument
+
+Many people can play a musical instrument.
+
+> 使用 the 搭配特定乐器
+
+I play the guitar.
+
+> 想要某人为你演奏歌曲
+
+Please play a song.
+
 ## 4 为来访同事制定计划
 
 # 单元 2 地点
