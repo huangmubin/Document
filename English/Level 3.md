@@ -353,6 +353,33 @@ Please play a song.
 
 ## 4 为来访同事制定计划
 
+> 2018-04-20
+
+Hi, Joan.
+Hi. Listen, Carlos, do you have any plans this weekend?
+Uhhh, no. why?
+Well, Henrique Gonzales is visiting. He's the manager of the Mexico City office. And I'm out of town all weekend.
+Right...
+Can you show him around?
+Carlos, it's really important. Can you show him around?
+Of course, of course, I can show him around. Uhhh, what's he interested in?
+Well, I know he enjoys eating out.
+Well, I know a lot of good restaurants.
+Oh, and he's really into art.
+There's probably a good exhibition at the art museum.
+Great, think you. Look - You can have two extra day's vacation for this.
+Really? thanks!
+No, thank you.
+
+### Syntaxes
+
+> 询问他人是否有计划
+
+Do you have any plans for the weekend?
+Yes, I'm visiting my mother.
+
+Songs from Peru, played on flute by the lovely Tori Mitchell. 7:30 p.m. at the Music Space.
+
 # 单元 2 地点
 
 ## 1 向他人介绍你居住的地方
