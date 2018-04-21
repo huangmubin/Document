@@ -371,12 +371,76 @@ Great, think you. Look - You can have two extra day's vacation for this.
 Really? thanks!
 No, thank you.
 
+>
+
+Hi, Joan.
+Hi. Listen, Carlos. Do you have any plans this weekend?
+Uhh... No, why?
+Well, Henrique Gonzales is visiting. He's the manager of Mexico City Office. And I'm out of town all weekend.
+Right...
+Can you show him around?
+//Carcol, this very important. Can you show him around?
+Carlos, it's really important. Can you show hime around?
+//What's he interested in?
+Of course, of course. I can show him around. Uhhh, what's he interested in?
+//I know his likes eating out.
+Well, I know he enjoys eating out.
+Well, I know a lot of good restaurants.
+//And he really like arts.
+Oh. and he's really into art.
+//Well, There's probably a good art exhibit at the museum.
+There's probably a good exhibition at the museum.
+//Ok, Look, you can have two extra day's vacation for this.
+Great, thank you. Look - you can have two extra day's vacation for this.
+Really? Thanks.
+No, thank you.
+
+> 
+
+Do you have any plans this afternoon, Gina?
+Nope. What's up?
+My sister's visiting. Can you show him around? I'm working.
+Of course. What's she into?
+Uhh... Well, I know she likes going to art exhibits.
+OK. There's probably an exhibit at the museum.
+Great. Hey, she likes Italian food. Maybe you can take her to Giancarlo's.
+Sure. Sounds good.
+Thanks a lot, Gina!
+
+
 ### Syntaxes
 
 > 询问他人是否有计划
 
+do you have any plans
+
 Do you have any plans for the weekend?
 Yes, I'm visiting my mother.
+
+> 使用 Can 询问可能
+
+can
+
+Can you show him around?
+Of course.
+
+> 使用 know 表示你确定某事
+
+know
+
+What's he interested in?
+Well, I know he enjoys eating out.
+
+> 用 probably 表示可能，位于动词之前，be 动词之后
+
+They probably like listening to music.
+There's probably an exhibit at the museum.
+
+> 使用 maybe 表示可能性稍小
+
+Maybe he enjoys photography.
+
+
 
 Songs from Peru, played on flute by the lovely Tori Mitchell. 7:30 p.m. at the Music Space.
 
