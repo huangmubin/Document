@@ -399,6 +399,95 @@ Okay.
 I'm on the 11th floor, number 17.
 All right. See you on Friday.
 
+### Words
+
+> 街道名称有多个不同的单词。以下是一些关键词和相应的缩写形式。缩写多用于文件、信件和邮件中正式地址的书写。如果与具体街名搭配使用，记住街道单词首字母一定要大写，比如 Fourth Avenue。
+
+street = St.
+road = Rd.
+avenue = Ave.
+boulevard = Blvd.
+drive = Dr.
+way
+
+### Syntaxes
+
+#### 表示相对位置
+
+> next to 表示与某场所相邻
+
+The library is next to the playground.
+
+> on the corner of + 街道 + and + 街道 表示交汇处
+
+The bank is on the corner of Pine Street and First Street.
+
+> in front of 表示位于某一场所前方
+
+The bus stop is in front of the supermarket.
+
+> between + 场所 + and + 场所 表示在两者之间
+
+The post office is between the restaurant and the movie theater.
+
+> behind 表示在另一个场所后面
+
+The pizza place is behind the library.
+
+> across the street 表示街对面，across the street from + 场所 表示与某处隔街对望
+
+The bookstore is across the street.
+The bookstore is across the street from the restaurant.
+
+#### 表示位置时的 on in at
+
+> in 表示在某个大范围的地方，如国家，地区
+
+I live in Shen Zhen.
+
+> on 表示在某个街道
+
+I live on Maple Road.
+The library is on Pine Street.
+
+> at 表示具体的门牌号
+
+I live at 1215 Maple Road.
+The library is at 57 Pine Street.
+
+#### 门牌号的数字念法
+
+> 一到两个数字，直接念数字几十几
+
+The bank is at 43 Central Boulevard. - forty-three
+
+> 三到四个数字可以分两段念，
+
+I live at 570 Beverly Drive. - five seventy
+I live at 1215 Maple Road. - one two one five
+The theater is at 406 Sunshine Way. - four oh six
+
+> 多于四个数字则依次念出
+
+The bank is at 11743 Fifth Avenue. - one one seven four three
+
+> 如果数字是 0，可以 zero 也可以 oh
+
+I live at 570 Beverly Drive. - five seven zero
+He lives at 1208 Maple Road. - twelve oh eight
+The library is at 21409 Second Avenue. - two one four oh nine
+
+#### 询问某人地址
+
+Where do you live? I live on Pine Street.
+What's your address? It's 507 Pine Street.
+What's the address of the restaurant? The restaurant's at 819 Ocean Avenue.
+
+> 得知地址后可以继续问详细
+
+What's the cross street? The cross street is Fourth Avenue.
+What's your apartment number? It's 2314.
+What floor do you live on? The 23rd floor.
 
 ## 2 指路
 
