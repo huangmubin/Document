@@ -566,8 +566,7 @@ Turn right.
 Turn right here.
 Just go straight, Mark.
 Let's park here, OK?
-
-
+go
 ### Syntaxes
 
 #### 指路
@@ -612,6 +611,74 @@ Correct.
 
 
 ## 3 询问前往某家公司的路线
+
+Take the number 13 bus, and get off at Pine Street. 
+Then walk north on First Street for three blocks.
+Our office is on the left at 3489. 
+We're on the fourth floor in office number 420.
+
+Good morning. Telex company. How can I help you?
+Yes, good morning. I have a meeting at your company today. Can you tell me how to get to your office, please?
+Yes, of course. Where are you coming from?
+I'm in front of the Regency Hotel on Park Drive. I'm walking.
+Oh, OK. First, go north on Park Drive for two blocks, and make a right on Seventh Avenue.
+North on Park, turn right on Seventh.
+Correct. Next, go one block on Seventh, and take a left on Chase Street. Our building is on the right - number 729. We're on the third floor. Our office number is 316.
+
+### Words
+
+ride a bike             骑自行车
+go by plane           坐飞机
+take a taxi             乘计程车
+go by car               坐车前往
+go on foot               步行前往
+take the bus
+take the train
+take the subway
+go by ferry             
+ride the streetcar
+
+### Syntaxes
+
+#### 方向 North South East West
+
+Go north on Third Avenue.
+Go down Central Boulevard, and turn east on Clover Street.
+
+Which direction is it?
+It's west.
+
+> block 是指一个街区
+
+Go down Main Street for three blocks, and then make a right.
+Go south for two blocks, and turn left.
+
+#### 询问公司方位
+
+> 前台用语
+
+ABC Industries. How can I help you?
+
+> 如果你要拜访一家公司，可以这样询问。
+
+What's your address, please?
+Where's your office, please?
+How do I get to your office, please?
+Can you please tell me how to get there?
+
+> 询问你现在在哪里
+
+Where are you now?
+How are you coming?
+
+> 询问需要多少时间才能到
+
+How long does it take?
+It takes about 20 to 30 minute.
+
+> 感谢
+
+Thank you for your help!
 
 ## 4 描述城市的位置
 
