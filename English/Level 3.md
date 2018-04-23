@@ -491,6 +491,23 @@ What floor do you live on? The 23rd floor.
 
 ## 2 指路
 
+Concentrate the driving. We don't want to crash.
+I think it's just up straight.
+Turn right.
+No. Left.
+It's a terrible map!
+So, where?
+Umm... We turned right.
+Turn right.
+Turn right here.
+Just go straight, Mark.
+Let's park here, OK?
+
+
+
+
+Make a left on Valley Road.
+
 ## 3 询问前往某家公司的路线
 
 ## 4 描述城市的位置
