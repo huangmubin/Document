@@ -448,6 +448,22 @@ Songs from Peru, played on flute by the lovely Tori Mitchell. 7:30 p.m. at the M
 
 ## 1 向他人介绍你居住的地方
 
+> 2018-04-21
+
+So, Todd? Are you coming to the party Friday night?
+Party? What party?
+The party at my apartment?
+Oh, yeah. Umm, sure. Where do you live?
+I live at 1215 Maple Road.
+1215 Maple Road.
+The cross street is 4th Avenue.
+Oh, right. I know Fourth Avenue.
+I live in the apartment building between the library and the park.
+Okay.
+I'm on the 11th floor, number 17.
+All right. See you on Friday.
+
+
 ## 2 指路
 
 ## 3 询问前往某家公司的路线
