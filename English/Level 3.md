@@ -568,9 +568,48 @@ Just go straight, Mark.
 Let's park here, OK?
 
 
+### Syntaxes
 
+#### 指路
 
+> 直行 go straight / go down
+
+Go straight on Pine Avenue.
+Go down Oak Street.
+
+> 左右方向 turn right / left on
+
+Go straight on Pine Avenue. Then turn right on Central Boulevard.
+Go down Oak Street. Next, turn left on Valley Road.
+
+Go right on Central Boulevard.
 Make a left on Valley Road.
+
+> 表示某个地方位于街道的左边或右边 on the right / left
+
+His house is on the right.
+The building is on the left.
+
+> 重复别人告诉你的路线。来确认是否走错。使用 So 开头
+
+Go down Main Street, and then make a right on Terrace Drive.
+So, I go down Main and make a right on Terrace.
+Yes, That's right.
+
+> 表达别人回答正确
+
+Correct 
+Uh-huh
+Yes, that's right.
+
+> 理解错误重新提醒
+
+Go down Main Street and make a right on Terrace Drive.
+So, Go down Main and make a left on Terrace.
+No. Make a right on Terrace.
+Oh, OK, Go down Main and make a right on Terrace.
+Correct.
+
 
 ## 3 询问前往某家公司的路线
 
