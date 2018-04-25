@@ -682,6 +682,20 @@ Thank you for your help!
 
 ## 4 描述城市的位置
 
+That's my hometown - Salvador. There.
+Right. On the east coast.
+Yeah.
+Where's Rio?
+It's in the south. Down here.
+How far is it from Salvador to Rio?
+It's about 1200 kilometers.
+So you live on the coast.
+Yeah.
+I love the ocean. Do you know Big Sur?
+No. Where's that?
+It's in California. It's in the mountains, but it's also on the coast.
+There it is, in the west coast. It's so beautiful there. In the summertime, you can go camping...
+
 # 单元 3 酒店
 
 ## 1 推荐酒店
