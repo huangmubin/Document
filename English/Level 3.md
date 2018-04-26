@@ -696,9 +696,50 @@ No. Where's that?
 It's in California. It's in the mountains, but it's also on the coast.
 There it is, in the west coast. It's so beautiful there. In the summertime, you can go camping...
 
+### Syntaxes
+
+#### 描述地理位置
+
+> On 描述临近某处
+
+It's on the ocean.
+It's on a lake.
+
+> In 描述在什么里面
+
+It's in the mountains.
+It's in a valley.
+
+> 
+
 # 单元 3 酒店
 
 ## 1 推荐酒店
+
+Hey, Todd, you know Vancouver, right?
+Sure, I know Vancouver.
+I have a meeting there on March 15th. Can you recommend a good hotel?
+How about the Hotel Anna? It's right downtown. The rates are reasonable.
+Sounds good. How much is it a night?
+I think it's around 200 a night.
+Not bad. It's there a fitness center in the hotel?
+Yes, there is. Oh! And you get free wireless internet in your room. I love that.
+What are the rooms like?
+Uh, they're nice. The bathrooms are pretty small. But they're modern and clean.
+Great! Thanks, Todd. The Anna sounds perfect.
+No problem. Have a good trip.
+Thanks.
+
+### Words
+
+rate  reɪt 价格
+reasonable ['riz(ə)nəb(ə)l] 公平的，合理的
+downtown [daʊn'taʊn] 市区，闹市区
+right downtown
+fitness 
+fitness center
+modern
+recommend
 
 ## 2 预定酒店
 
