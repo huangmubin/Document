@@ -921,6 +921,77 @@ No, thank you.
 
 ## 3 登记入住酒店
 
+Good afternoon. May I help you?
+Yes, I'm checking in.
+May I see your passport?
+Yes. Here you are.
+Okay, welcome to Hotel Anna, Ms. Baxter.
+Thanks.
+So, that's two people, for four nights.
+Umm, actually it's for one person - just me.
+Oh. I'm sorry. Ah, yes - a nonsmoking single.
+That's right.
+And you're staying with us for four nights, checking out on the 19th?
+Yes.
+Okay. May I see your credit card, please?
+Here you are.
+Wonderful. You're all set. Here's your credit card and passport.
+Thank you.
+And here's your key card. You're in 1412. You can take the elevator behind you. Would you like to help with your luggage?
+No, thanks, I'm fine.
+Have a pleasant stay.
+Thank you.
+
+### Words
+
+umbrella
+elevator
+suitcase
+lobby
+hotel clerk
+key card
+passport
+credit card
+front desk
+luggage
+
+### Syntaxes
+
+> 使用 So 来确认某事
+
+A: We're checking in on the 19th and checking out on the 22nd.
+B: So, that's for three nights.
+A: That's correct.
+
+> 信息正确
+
+Right.
+That's right.
+Correct.
+That's correct.
+
+> 信息错误
+
+A: We're checking in on the 3rd and checking out on the 14th.
+B: So, that's for 10 nights.
+A: Actually, it's 11 nights.
+
+A: We're checking in on the 3rd and checking out on the 14th.
+B: So, that's for 10 nights.
+A: Actually, it's 11 nights.
+B: Oh, sorry about that. That's 11 nights.
+A: That's right.
+
+> 结束对话
+
+You're all set. 
+That's about it.
+Here's your credit card.
+Have a nice day. 
+Have a pleasant stay.  
+Have a good evening. 	
+Take care.
+
 ## 4 结账退房
 
 # 单元 4 假日和庆典
