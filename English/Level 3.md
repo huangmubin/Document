@@ -696,6 +696,8 @@ No. Where's that?
 It's in California. It's in the mountains, but it's also on the coast.
 There it is, in the west coast. It's so beautiful there. In the summertime, you can go camping...
 
+My hometown is Edinburgh, in Scotland. It's a really beautiful city. It's on the east coast of the country, on the North Sea. It's not in the mountains, but there are mountains nearby. It's around 400 miles from London to Edinburgh. By car, there's about seven hours. Come in the summer; in winter, it's really cold!
+
 ### Syntaxes
 
 #### 描述地理位置
@@ -710,7 +712,28 @@ It's on a lake.
 It's in the mountains.
 It's in a valley.
 
-> 
+> in the + 方位
+
+It's in the north.
+It's in the west.
+
+#### 询问和回答距离
+
+> How far is it?
+
+Let's go to the coffee shop.
+How far is it?
+It's only two blocks.
+
+> How far is it from ... to ...
+
+How far is it from your house to the beach?
+It's about two kilometers.
+
+> Kilometers / miles
+
+kilometers = km = 千米 = 公里
+miles = 英里 = 1.6 公里
 
 # 单元 3 酒店
 
@@ -730,6 +753,20 @@ Great! Thanks, Todd. The Anna sounds perfect.
 No problem. Have a good trip.
 Thanks.
 
+> 
+
+The Hotel Regency looks interesting. It's right downtown.
+No, it's too expensive. And it doesn't have a swimming pool.
+Hey, the Atlantic Hotel has a swimming pool, and the rates are reasonable.
+Yeah, but it isn't near downtown. The Hotel Vincent looks good.
+Yeah. Nice pool, close to downtown. The rooms look comfortable.
+And the rates great.
+Sounds perfect.
+
+>
+
+I can recommend the Waves Hotel. It's right on the ocean. The rooms have a lot of light and are very comfortable. You can walk from your room to the beach. The rates are reasonable. The hotel is modern and clean. All the rooms have free wireless internet.
+
 ### Words
 
 rate  reɪt 价格
@@ -740,6 +777,52 @@ fitness
 fitness center
 modern
 recommend
+
+### Syntaxes
+
+#### 选择酒店时要考虑的问题
+
+> 地点
+
+The hotel is right downtown.
+It isn't near the airport.
+It's close to shopping.
+
+> 酒店设施
+
+The hotel has a great fitness center.
+It doesn't have a swimming pool.
+Every room has free wireless internet.
+It doesn't have a business center.
+
+> 价格
+
+The room rates are reasonable.
+It's about $150 a night.
+It's too expensive.
+
+> 询问酒店推荐
+
+Can you recommend a good hotel?
+Do you know a good hotel in Vancouver?
+
+> 推荐酒店
+
+How about the Hotel Anna?
+I can recommend the Regency Hotel.
+
+> 后续疑问
+
+How much is it a night?
+It there free wireless internet?
+What are the rooms like?
+
+> 表达感受
+
+Sounds perfect!
+I don't think so.
+I'm not sure.
+Do you know any others?
 
 ## 2 预定酒店
 
