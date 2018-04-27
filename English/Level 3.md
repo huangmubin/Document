@@ -814,7 +814,7 @@ I can recommend the Regency Hotel.
 > 后续疑问
 
 How much is it a night?
-It there free wireless internet?
+Is there free wireless internet?
 What are the rooms like?
 
 > 表达感受
@@ -825,6 +825,99 @@ I'm not sure.
 Do you know any others?
 
 ## 2 预定酒店
+
+Hotel Anna. How can I help you?
+I'd like to make a reservation, please.
+Certainly. For how many people?
+Just me.
+OK, and when are you checking in?
+March 15th, checking out March 19th.
+Fifteenth to the nineteenth. So, that's four nights. Would you like a single room or a double?
+A single, please. Oh, and I need a nonsmoking room.
+A nonsmoking single. That's no problem. Would you like me to reserve it for you now?
+What's the rate?
+Two hundred and ten a night.
+Okey. Yes, please reserve it.
+Certainly. Can I have your name?
+Joan Baxter. BAXTER.
+And can I have your credit card number?
+Mm-hmm. It's 3788-6672-4028-24.
+Great. Just one moment... All set. Can I help you with anything else?
+No, thanks.
+All right. I'll see you on March 15th.
+Thank you.
+
+### Syntaxes
+
+#### 预定酒店房间
+
+> 预定
+
+I'd like to make a reservation.
+I'd like to reserve a room.
+
+> 入住，离开
+
+When are you checking in?
+March 15th.
+When are you checking out?
+March 19th.
+
+> 房间类型
+
+single room
+double room
+smoking room
+nonsmoking room
+
+> 价格
+
+What's the rate?
+It's $210 a night.
+
+> 酒店一般还会问信用卡号
+
+Can I have your credit card number?
+It's 3788-6672-4028-24.
+
+#### 酒店店员会问
+
+> may 比 can 更加礼貌，正式
+
+Can I help you?
+May I help you?
+How can I help you?
+
+> 其他问题
+
+For how many people?
+When are you checking in?
+For how many nights?
+Would you like a single room or a double?
+
+Would you like to reserve it now?
+Can I book that for you?
+Can I have your name?
+May I have your credit card number?
+
+Can I help you with anything else?
+Is there anything else I can help you with?
+
+#### Would like 搭配名称和不定式
+
+> would like + 不定时进行礼貌请求
+
+Mr. Samuels would like to check in on May 21st.
+He'd like to have a nonsmoking room.
+They'd like to check out on January 3rd.
+
+> Would + subject + like + noun/infinitive 可用于提问。
+
+Would you like a double room?
+Would you like to reserve the room now?
+
+Yes, please.
+No, thank you.
 
 ## 3 登记入住酒店
 
