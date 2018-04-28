@@ -994,6 +994,92 @@ Take care.
 
 ## 4 结账退房
 
+Good morning. May I help you?
+Yes. I'd like to check out, please.
+Certainly. How was your stay?
+Pretty good. But the neighborhood's a little noisy.
+Oh, I'm sorry to hear that.
+It's okay. I love the room. And the fitness center's amazing.
+Great. Now would you like to pay with your credit card?
+Please.
+That's $996.
+Really? That seems high.
+That's four night, plus room service on Wednesday night.
+Ah! That's right. My ... my dinner on Wednesday night.
+Correct.
+Thank you! Would you like a receipt?
+Yes, please. I need the receipt.
+There you go.
+Thank you.
+Have a nice day.
+Thank you.
+
+### Words
+
+service
+apologize
+
+### Syntaxes
+
+That seems high.
+That's four night, plus room service on Wednesday night.
+Your bill comes to $996.
+The total amount is $996.
+I do apologize for that.
+It's not a big deal.
+Yes, I need it for work.
+
+#### 酒店退房
+
+> 退房
+
+I'd like to checking out, please.
+I'm checking out.
+Could I checking out, please?
+
+> 支付多少钱
+
+That's $996.
+Your bill comes to $996.
+The total amount is $996.
+
+> 对价格有疑问
+
+That seems high.
+That doesn't seems right.
+I'd like to review my bill, please.
+
+> 什么方式支付
+
+Would you like to pay with your credit card?
+How would you like to pay for that?
+
+> 发票
+
+I'd like a receipt, please.
+
+> 询问住得怎么样
+
+How was your stay?
+How was everything?
+How was your room?
+
+> 反馈
+
+It was fine, thanks.
+Everything was great.
+Pretty nice, but my room was very small.
+It was OK, but my shower isn't very hot.
+Actually, my bed was a little uncomfortable.
+
+I'm sorry to hear that.
+I do apologize for that.
+Thanks for letting us know.
+
+That's okay.
+No problem.
+It's not a big deal.
+
 # 单元 4 假日和庆典
 
 ## 1 邀请某人参加派对
