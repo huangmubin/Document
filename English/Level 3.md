@@ -1084,6 +1084,44 @@ It's not a big deal.
 
 ## 1 邀请某人参加派对
 
+I'm getting together some friends in an hour. 我一个小时候要和几个朋友相聚。
+
+invitation 邀请
+afraid 恐怕
+
+
+Hi, Mona. What are you doing tonight?
+Umm. I'm going to the gym in an hour. Why?
+I'm having people over for a little birthday party at seven.
+Happy birthday! I'd love to come. And I know the perfect gif for you.
+Thanks! Paul's making a big chocolate cake later.
+Ooh, cake! I can bring some snacks, or wine and sodas.
+
+### Syntaxes
+
+#### 将来进行时
+
+be + v-ing
+
+What are you doing tomorrow?
+We're having my parents over to dinner next weekend.
+I'm meeting some friends on Wednesday night.
+
+#### 邀请的提出和接受，谢绝
+
+What are you doing this weekend?
+Are you free on Sunday?
+Would you like to come to a party?
+
+Yes, can I bring anything?
+Sure! What time should I come?
+Yes. Thanks for the invitation!
+When is the party?
+
+I'm sorry, I'm afraid I'm busy.
+I can't, but thanks for the invitation.
+
+
 ## 2 在派对上与人交谈
 
 ## 3 讨论假日计划
