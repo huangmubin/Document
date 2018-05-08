@@ -1124,7 +1124,129 @@ I can't, but thanks for the invitation.
 
 ## 2 在派对上与人交谈
 
+incredible
+Give her my best.
+I'm really excited.
+That sounds incredible.
+
+Hey, Todd! Thanks for coming.
+Thanks for inviting me. It's a great party.
+Oh, hey - how's your wife feeling?
+Poor Angela. She still has that cold.
+I'm sorry to hear that. Give her my best.
+Thanks, I will. So. What's happening with you?
+Oh, not much. I'm going to a birthday party tomorrow night. My grandmother's. She's 87.
+Eight-seven! That's amazing!
+Yeah! It is. What about you? Anything new?
+Well, I'm taking some vacation time next week. Angela and I are going to Buenos Aires.
+Wow! That sounds wonderful!
+Yeah, I'm really excited.
+Yes, dear. Okay.
+Angela. I should go.
+I understand. Thanks again for coming.
+
+### Syntaxes
+
+#### 派对上的开启话题
+
+Hey, thanks for coming to the party.
+Hey, thanks for having this party.
+Anything new?
+So, what's happening with you?
+What's up?
+
+Love the music. What is it?
+Lovely music. Who's your favorite singer?
+Great snacks. Do you enjoy cooking?
+
+How are you?
+How are you feeling?
+
+Wow! That sounds incredible.
+
+> 结束对话
+
+Nice talking with you.
+Good to see you again.
+
+Well, it's late. I should go.
+Thanks for coming.
+
+Thanks again for the wonderful party.
+You're welcome! Thanks for the wine.
+
+Say hello to Bella.
+
 ## 3 讨论假日计划
+
+festival
+fantastic
+film
+program 节目
+event 活动
+fireworks 烟花
+costume 服装
+parade 游行
+entertaining 有趣的
+crowded 拥挤的
+definitely
+exactly
+It's beautiful this time of year.
+Are you going to drive there?
+
+Hi, Joan.
+Hi!
+How are things?
+Good! I'm excited about my vacation.
+You're going on vacation? Great! Where are you going?
+I'm going for Scotland for two weeks.
+Nice. What are you going to do there?
+I have ticks for the Edinburgh Film Festival.
+Fantastic!
+I'm going to see seven films in five days.
+Wow. That's a lot of movies.
+You should see the film festival program. That are hundreds of movies.
+What are you going to do after that?
+I'm going skiing in the mountains. It's beautiful this time of year.
+Well, have a great holiday.
+Thanks.
+
+I'm going to the Fresh Film Festival this summer.
+Sounds like fun. What films are you seeing?
+Lots. Look - there are hundreds in the program.
+Are the tickets expensive?
+Fifty dollars. But there are so many different events.
+Sounds very entertaining.
+Yeah. There's a big parade on the first nigh. It has about a thousand people.
+
+
+### Words
+
+festival
+program 节目
+ticket
+event 活动
+
+film
+fireworks 烟花
+costume 服装
+parade 游行
+
+entertaining 有趣的
+crowded 拥挤的
+
+### Syntax 
+
+#### be + going to 将来进行时
+
+谈论未来发生的活动，可以使用 be + going to 搭配动词。根据当前的证据，使用这一句型表示对未来的肯定。
+
+I have tickets for the festival. I am going to see three films.
+
+你也可以使用 be + going to 搭配动词来表示你坚决打算做的事情。
+
+What are you going to the in the festival?
+We are going to dance in the parade.
 
 ## 4 撰写假日或庆典
 
