@@ -1371,15 +1371,15 @@ People usually celebrate for six nights.
 
 > people we they 等代词谈论人们庆祝时做的事情
 
-What do people do durting the festival?
+What do people do during the festival?
 They dance and sing song.
-
-
-
 
 # 单元 5 金钱和购买
 
 ## 1 挑选产品
+
+
+
 
 ## 2 购买
 
