@@ -1250,6 +1250,133 @@ We are going to dance in the parade.
 
 ## 4 撰写假日或庆典
 
+Brazil
+carnival
+celebrate
+acaraje
+beans
+parade
+fantastic
+costume
+entertaining
+dull
+special
+ordinary
+different
+the same
+funny
+serious
+scary
+not scary
+colorful
+colorless
+gorgeous
+hideous
+popular
+unpopular
+crowded
+empty
+quite
+favorite
+family
+How long does Carnival last for?
+Make with beans and then fried.
+I'm slow.
+They usually have a big meal.
+
+
+Sorry. We, uh...
+Oh, that's okay. I like the music.
+Yeah? It's samba. You know, everyone in Brazil is parting right now.
+Is it Carnival?
+It's Carnival.
+Carnival. Carnival.
+How do you celebrate?
+Well, there are street festivals. Some of my friend and I are dance in the samba school. Oh - and we make acaraje at home.
+Aca - what?
+Acaraje. It's food. Make with beans and then fried.
+Mmm. That sounds good.
+So, uh, how long does Carnival last for?
+Well, the big events last four days. But my friend and I? We usually party for a week.
+Sounds fun. Hey, Todd, do you want to dance?
+Ah - ha - ha - ha...
+
+How long does the Sun Festival last?
+It lasts, um, six days.
+What do you do during the festival?
+Let's see ... We eat and dance for a week. We celebrate the sun...
+Sounds fantastic.
+Definitely. I'm going to make my own costume this year.
+Wow! How long it take to make a costume?
+I'm slow. It takes me about three weeks.
+
+### Word
+
+> interesting - boring 有趣 - 无聊
+
+entertaining - dull 有趣的 - 乏味的
+special - ordinary 特别的 - 平常的
+different - the same 不同的 - 相同的
+funny - serious 有趣的 - 严肃的
+scary - not scary 恐怖的 - 不恐怖的
+
+> beautiful - ugly
+
+colorful - colorless 多彩的 - 无色的
+gorgeous - hideous 华丽的 - 丑陋的
+
+> 节日
+
+popular - unpopular 流行的 - 不流行的
+noisy - quiet 吵闹的 - 安静的
+crowded - empty 拥挤的 - 空旷的
+
+> ugly 跟 hideous 有很强烈的否定含义，谨慎使用
+
+### Syntax 
+
+#### 表达持续时间
+
+> 使用动词 last 表达某事从开始到结束的持续时间
+
+How long does the Carnaval last?
+The big events last a few days.
+
+> 使用动词 take 谈论完成某事所需的时间
+
+How long does it take to walk from the hotel to the parade?
+It takes a half-hour.
+
+> 使用介词 for 表示某事的持续时间
+
+We celebrate for a week.
+
+> 使用介词 during 表示在某个时间内发生
+
+I party a lot during the summer.
+What do you do during Carnaval?
+
+#### 询问假日或庆典
+
+> 使用 usually 谈论人们通常的庆祝方式
+
+How do you celebrate New Year's
+We usually watch the big fireworks show.
+
+What do people usually do?
+They usually have a big meal.
+
+How long does the hoilday last?
+People usually celebrate for six nights.
+
+> people we they 等代词谈论人们庆祝时做的事情
+
+What do people do durting the festival?
+They dance and sing song.
+
+
+
+
 # 单元 5 金钱和购买
 
 ## 1 挑选产品
