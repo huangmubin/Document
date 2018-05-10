@@ -1378,6 +1378,83 @@ They dance and sing song.
 
 ## 1 挑选产品
 
+powerful
+
+Hey, Sally. Can I ask you a question about computers?
+Sure.
+My son's computer's really old and slow. He needs something faster for his classes. And for all those computer games he plays.
+You want a laptop, not a desktop, right?
+Yes, I'm think about the B-Tek 13-72.
+Hmm. You need a better computer for gaming.
+You should but the 13-82. You see, the 82's faster and more powerful than the 72.
+Yeah. And it's also more expensive.
+Twelve hundred isn't bad - for a fast, powerful laptop.
+Hmmm. Okay. Thanks for your help.
+No problem.
+
+Computer A is $1200. It's a laptop. It's fast and powerful. It's very reliable. It's also attractive and light. 
+Computer B is a desktop. It's cheaper than computer A. It's $699. It's also slower and less powerful. It's very reliable. It's also attractive but a lot heavier than computer A.
+Computer C is a great laptop. It's faster and lighter than computer A. It's also very reliable and attractive. It is very cool computer, but it costs $2300.
+
+
+### Word
+
+> 通过反义词进行记忆
+
+old new
+slow fast
+
+> 有些形容词有一个以上的反义词，不同的形容词可能有相同的意思
+
+attractive - unattractive 迷人的 - 不迷人的
+attractive - ugly 迷人的 - 丑陋的
+safe - unsafe
+safe - dangerous
+
+> cheap 指便宜，也指做工差
+
+expensive - inexpensive
+expensive - cheap
+
+That's a cheap price. Buy it!
+That computer looks cheap. Don't buy it.
+
+> 其他
+
+powerful - weak
+heavy - light
+reliable - unreliable 可靠 - 不可靠
+easy - difficult
+fancy - plain 花俏 - 朴素
+
+### Syntax
+
+> 使用一个以上的形容词时，用 and 或一个逗号分开他们
+
+My desktop computer's really old and slow. I need a new, fast laptop.
+
+#### 形容词比较级
+
+> 当两个人或两个事物进行比较时，形容词变成比较级，并跟着 than。 单音节形容词的比较级加 -er.
+
+slow > shower than
+
+The desktop computer is slower than the laptop computer.
+
+> 两个或以上的音节的形容词，用 more 或 less + adjective + than. 形容词不变
+
+expensive > more expensive than / less expensive than
+
+The laptop computer is more expensive than the desktop.
+The desktop computer is less expensive than the laptop.
+
+> 如果听者知道你在说什么。 than 部分可以省略。
+
+My old computer is slow. I need something faster. (than my old computer)
+
+You can buy a desktop or a laptop computer.
+The laptop is more expensive.(than the desktop computer)
+
 
 
 
