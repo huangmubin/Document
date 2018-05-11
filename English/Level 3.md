@@ -1455,10 +1455,10 @@ My old computer is slow. I need something faster. (than my old computer)
 You can buy a desktop or a laptop computer.
 The laptop is more expensive.(than the desktop computer)
 
-
-
-
 ## 2 购买
+
+
+
 
 ## 3 退货
 
