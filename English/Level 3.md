@@ -1457,6 +1457,154 @@ The laptop is more expensive.(than the desktop computer)
 
 ## 2 购买
 
+warranty 保修
+Is there a warranty? 有保修吗？
+It's 25% off. 7.5折
+It's less expensive to buy online.
+
+
+Excuse me. Could you help me?
+I want to buy a new laptop.
+Sure.
+I'm looking for the, umm... I'm looking for the... I'm looking for the... the B-Tek 13-82.
+Ahh, yes. Right over here. It's a great computer. Fast, powerful, and very popular with young people.
+Yeah. How much is it?
+It's on sale this week, for $1120.
+That's a good price. I'll take it.
+How would you like to pay?
+By credit card.
+Could I see some identification?
+Here's my drive's license.
+Just a minute.
+Please sign here.
+Thank you. And here's your receipt...
+Thank you.
+And credit card.
+Thank you.
+You're welcome. Have a nice day.
+Thank you.
+
+
+
+I really like to surf the internet and chat online, but I have an old computer. I need to get some money, and I need to buy a new computer. I want to buy a tablet, and I want to buy it today!
+
+
+I'm looking for an e-reader.
+This one's very popular.
+How much is it?
+It's on sale for $299. It's very reliable, it's light, and it's easy to use.
+Ok. I'll take it.
+Cash or credit?
+Credit card, please.
+
+
+
+### Words
+
+game console 游戏主机
+e-reader 电子阅读器
+desktop computer 台式电脑
+cellphone 手机
+tablet computer 平板电脑
+TV televsion 电视
+smartphone 智能手机
+digital camera 数码相机
+laptop computer 笔记本电脑
+
+### Syntaxes
+
+#### Need want like + 动词不定式(to verb)
+
+I need to get a new computer.
+I want to buy a new tablet.
+I like to play the computer games.
+He doesn't like to play the computer games.
+
+> 有些不定式动词可以省略。
+
+I need a new computer.
+I want a new tablet.
+I like computer games.
+He doesn't like computer games.
+
+> 疑问句
+
+What do you need to do?
+I need to clean my apartment.
+
+What do you want to do?
+I want to go shopping.
+
+What do you like to do?
+I like to play computer games.
+
+#### 购买商品
+
+May I help you?
+Excuse me. Could you help me?
+
+I want to buy a new camera.
+I need a game console for my son.
+I'm looking for a TV.
+Could you tell me about your digital cameras.
+
+> 详细内容
+
+How much is it?
+Is there a warranty?
+What's it made of?
+Is it reliable?
+Is it easy to use?
+
+It's on sale today.
+It's 25% off. 7.5折
+
+
+> 买不买
+
+I'll take it.
+I don't think so.
+I need to think about it.
+
+> 付款时
+
+How would you like to pay?
+Cash or credit?
+Could I see you ID?
+Please sign here.
+Here's your receipt and credit card.
+
+#### 不规则形容词比较级
+
+> 规则单音节，词尾加上 -er 
+
+fast - faster than
+cheap - cheaper than
+
+> 以 e 结尾 -r
+
+safe - safer than
+
+> 以元音字母加辅音字母结尾，双写辅音字母
+
+big - bigger than
+
+> 以 y 结尾，把 y 改为 i - er
+
+easy - easier than
+pretty - prettier than
+
+> 不规则
+
+good - better than
+bad - worse than
+far - farther than
+little - less than
+much - more than
+
+quiet - quieter than - more quiet than
+friendly - friendlier than - more fridendly than
+
 
 
 
