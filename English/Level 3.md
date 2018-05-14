@@ -1603,12 +1603,78 @@ little - less than
 much - more than
 
 quiet - quieter than - more quiet than
-friendly - friendlier than - more fridendly than
-
-
-
+friendly - friendlier than - more friendly than
 
 ## 3 退货
+
+Excuse me?
+Yes? Can I help you?
+I'd like to change this shirt.
+Look.
+Oh, Ok. Do you have the receipt?
+Yes, I do...
+There's a sale?
+Mm-hmm.
+
+
+Oh! This digital cameral!
+What's the problem?
+It doesn't work.
+Is it broken?
+No, it's just too difficult to use.
+Can I help?
+No, I don't like it. I'm going to the store.
+
+### Words
+
+skirt
+dress
+T-shirt
+jacket
+pants
+jeans
+shorts
+shirt
+shoes
+socks
+
+### Syntaxes
+
+#### 描述产品问题
+
+What's the problem?
+What's wrong with it?
+What's the matter?
+
+What seems to be the problem?
+
+It's too big.
+It doesn't fit.
+There's a hole in it.
+It's stained. 有污渍。
+It's damaged. 损坏了。
+It doesn't work.
+It's broken.
+It's too difficult to use.
+I don't like it.
+
+#### 购物退货
+
+I'd like to return these shorts.
+I'd like a refund, please.
+I'd like to exchange this dress.
+
+What seems to be the problem?
+Is there something wrong with it?
+
+It doesn't work.
+It doesn't fit.
+There's nothing wrong. I just don't like it.
+
+Do you have the receipt?
+
+Here's your refund of $27.99.
+Here's a store credit for $27.99.
 
 ## 4 谈论您所在国家的价格
 
