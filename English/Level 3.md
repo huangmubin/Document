@@ -1678,6 +1678,112 @@ Here's a store credit for $27.99.
 
 ## 4 谈论您所在国家的价格
 
+supplies
+ouch
+brilliant
+absolute
+proud
+utilities /juːˈtɪlətiz/ 公共事业
+entertainment /ˌentərˈteɪnmənt/ 娱乐，消遣
+healthcare /helθ ker/ 医疗保健
+gasoline /ˈɡæsəliːn/ 汽油
+office supplies 办公室用品
+I do have some good news.
+Did you do all this?
+I'm so proud of you.
+The cose of living is going up and up.
+
+Gas prices are really going up fast.
+Yeah, I know.
+And office supplies are going up, too.
+Ouch.
+Yeah, that really is going to hurt. Also, next month, the rent on our building's going to increase.
+Oh, no.
+Here's the letter.
+This is terrible.
+Yep. Everything is going up.
+I do have some good news.
+Hmm?
+Our sales are up this month. A lot.
+Oh, you absolute star. That is brilliant. Todd, did you do all this?
+Well, not on my own, of course.
+I'm so proud of you.
+With a bit of help.
+What, Collins?
+
+
+>
+
+More bad news today: The prices of housing and utilities are both up by more than 20%. Gas prices are going to increase for the next few months. The cose of education is also going up. There is some good news: The price of food is down by 10%.
+
+>
+
+In my contry, prices are always increasing. Healthcare and hosing costs are going up fast. Prices for food are also increasing, but more slowly. People live well, but the cost of living is difficult. The good news is that technology prices are decreasing. I want to buy a new tablet computer, but it's too expensive rige now.
+
+
+### Words
+
+utilities 公用事业
+transportation 运输
+education 教育
+clothing 服装
+housing 房屋
+technology 技术
+entertainment 娱乐
+healthcare 医疗保健
+food
+gasoline 汽油
+
+### Syntaxes
+
+#### 解释上涨和下降
+
+Prices are going up.
+The rent is going to increase.
+Company sales are up.
+
+Company sales are going down.
+The temperature is going to decrease.
+Gas prices are down.
+
+> 当我们听到价格上涨，会说 hurt
+
+The price of food up 25%.
+Ouch! That hurts.
+
+> 生活费用成为 cost of living
+
+The cose of living is going up and up.
+
+#### 带 -ly 的副词
+
+> 方式副词修饰动词的意义。它们通常由形容词后加-ly形成。例如，副词slowly 和quickly给我们关于动词decreasing的重要信息。
+
+slow - showly
+The price is decreasing slowly.
+
+quick - quickly
+The price is decreasing quickly.
+
+> 如形容词以辅音 + y 结尾，改 y 为 i，再在末尾加 -ly。
+
+busy - busily
+The people in the office are working busily.
+
+lazy - lazily
+He's walking lazily down the street.
+
+> 不是所有的形容词都能通过加-ly变成副词的。这里有三个重要的例子：
+
+good - well
+He is doing well in school.
+
+fast - fast 
+Gas prices are going up fast.
+
+hard - hard
+She studies really hard.
+
 # 单元 6 工作和公司
 
 ## 1 询问工作经验
