@@ -1788,6 +1788,144 @@ She studies really hard.
 
 ## 1 询问工作经验
 
+waitress
+waiter
+business
+difficult
+Where were you before?
+How long were you there for?
+I was there for eight months.
+Long enough.
+
+So, how's your new job?
+I love it. I'm so happy I got it.
+Cool. That's grest news.
+Yeah. The pay's higher than my last job, and my boss is really nice.
+Where were you before?
+Ugh. Sunset Computer Systems.
+Mmm. How was it there?
+It was terrible. The pay was low, my boss was horrible and the business was really bad.
+How long were you there for?
+I was there for eight months. Long enough.
+Yeah.
+But I'm much happier at Nuway Networks.
+There's great. Hey! I have some news.
+Oh, yeah?
+I have a new job, too.
+Really?
+I can't tell you too much at the monent, because it's a bit of a top secret, but...
+
+>
+
+I'm very happy in my new job at Tomorrow Computers. I'm a programmer. My last boss was awful. I wasn't happy there.
+Where were you before?
+I was at Dyno Systems. I was an engineer.
+Was that your first job?
+No. Before that, I was at LM Computers.
+Well, I'm happy that you like your new job.
+Me, too. Thanks.
+
+### Words
+
+> 大多数工作名词都是动词 -er / -or 组成
+
+bank - banker
+design - designer
+clean - cleaner
+act - actor
+direct - director
+edit - editor
+
+> e 结尾 -r
+
+manage - manager
+drive - driver
+write - writer
+
+> e 结尾去 e -or
+
+supervise - supervisor
+illustrate - illustrator
+
+> 如果动词最后两个字母是元音+福音，双写辅音
+
+program - programmer
+
+> 其他
+
+waiter
+waitress
+
+### Syntaxes
+
+#### Be 动词过去式
+
+使用动词 be 的过去时态，谈论人们以前的工作。动词 be 有两种过去时态形式：was 和 were。
+
+> 使用 was 搭配代词 I、he、she 和 it。 单数
+
+I was a banker.
+He was a computer programmer.
+She was a supervisor.
+It was very difficult.
+
+> 使用 were 搭配代词 you、we 和 they。 复数
+
+You were an actor.
+We were designers.
+They were driviers.
+
+> 要构成动词 'be' 的过去时态疑问句，将该动词移至句首。
+
+He was an illustrator. - Was he an illustrator?
+They were managers. - Were they managers?
+
+> 要构成动词 'be' 的过去时态否定式，使用 was not 和 were not。
+
+She was not a driver.
+
+> 短语 was not 通常缩写为 wasn't。短语 were not 通常缩写为 weren't。
+
+I wasn't a cleaner.
+They weren't editors.
+
+#### 一般过去时的时间标识
+
+> last 讨论最近发生的事情
+
+Last week I was on vacation.
+Where were you last night?
+I like my job now, but my last job was terrible!
+
+> 使用before, before that, after 以及 after that 来按顺序表达过去的事件。我们将用一个在餐厅工作​​的妇女来举例。
+
+She was a waiter befor she was a supervisor.
+She was a supervisor. Before that, she was a waiter.
+After she was a supervisor. She was the manager.
+She was a supervisor. After that, she was the manager.
+
+#### 谈谈你的工作
+
+How's your job?
+What's you job like?
+How was your last job?
+What was your last job like?
+Where were you before?
+
+> 当谈论您的工作时，您可以谈一谈您的工作时间，您的薪水或者您的上司。
+
+I like my job, but I work too many hours.
+The pay is really good in my new job.
+My boss is OK, but sometimes he's difficult.
+
+> 您也可以把您现在的工作和以前从事过的工作进行比较。
+
+My last job was easier than this job.
+My pay is better now, but I work longer hours.
+I was at LM Computers for only one year.
+My last boss was terrible.
+
+
 ## 2 介绍新员工
 
 ## 3 阅读名片的内容
