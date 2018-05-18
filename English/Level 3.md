@@ -1928,6 +1928,112 @@ My last boss was terrible.
 
 ## 2 介绍新员工
 
+master
+degree
+science
+fluent
+shall
+pleasure
+Shall me?
+He was the engineering manager there for three year.
+Let's all make Lee fell very welcome!
+Thanks, everyone, for the warm welcome.
+
+
+Excuse me, everyone.
+I'd like to introduce Simon Price, our new director of engineering.
+Uh, Simon comes to us from Dyna-Tek Systems. He was the engineering manager there for there year.
+He has a master's degree in computer science from Stanford University.
+Um, Simon worked in Paris for three years, and he speaks fluent French.
+So, uh, let's welcome Simon to his new company!
+Thanks, everyone, for the warm welcome. I'm really happy to be here.
+Shall me?
+
+>
+
+Good morning, everyone. It's my pleasure to introduce Kim Zhang. Kim is our new director of sales. Kim comes to us from Green Products. He worked there for three years as sales manager. Kim has an MBA from Harvard University. He speaks both Chinese and English. Let's welcome Kim to the company!
+Thank you all very much. I'm so happy to be here at New Futures. First, I'd like to thank Karen for that warm welcome.
+
+>
+
+Julie, I'd like to introduce Ken Stevens. Ken is our new director of engineering.
+It's a pleasure to meet you, Ken. Welcome. I work in sales here.
+Oh, thanks, Julie. Nice to meet you, too.
+Ken comes to us from XYZ Systems. He was the engineering manager for five years.
+Oh, nice. How was it?
+It was good, but I'm happy to be here now.
+This is a great place to work.
+Good answer, Julie!
+
+### Syntax
+
+#### 动词一般过去时
+
+> 规则动词的过去式始终以 -ed 结尾。
+
+work - worked
+I worked as a manager.
+He worked in Pairs for three years.
+They worked in a restaurant last summer.
+We worked in sales.
+
+> 规则动词的原型结尾如为 e，加 -d 即构成过去时。
+
+move - moved
+I moved to a new apartment last week.
+
+> 规则动词的原型如以元音 y 结尾，则加 -ed。
+
+play - played
+
+We played tennis last weekend.
+
+> 规则动词的原型如以辅音 y 结尾，改 y 为 i，再加-ed。
+
+study - studied
+
+She studied for four hours last night.
+
+> 动词一般过去时的否定语态. do不规则动词过去式是did。用did + not +动词原形与规则动词组成一般过去时否定句。通常使用缩略形式didn't, 除非你要强调 not这个词。
+
+We didn't study last night.
+He didn't work in London.
+
+> 一般过去时疑问句. 使用did +主语+动词原形与规则动词构成一般过去时疑问句。
+
+Did you study last night?
+Where did you work before?
+
+#### 正式介绍
+
+> 正式介绍某人
+
+I'd like to introduce Lee Hamilton.
+I'd like you to meet Lee Hamilton.
+Let me introduce Lee Hamilton.
+
+Lee is our new director of sales.
+
+> 介绍背景
+
+Lee comes to us from LM Computers.
+She was the sales manager there for five years.
+She has an MBA from Boston University.
+Lee is married and has three kids.
+
+> 表示欢迎
+
+Let's welcome Lee to the company!
+Let's all make Lee feel very welcome!
+
+> 被欢迎的人表示感谢
+
+Thanks, everyone, for the warm welcome.
+Thank you very much. I'm excited to be here.
+I'd like to thank Brian for that great introduction.
+
+
+
 ## 3 阅读名片的内容
 
 ## 4 描写工作
