@@ -2036,6 +2036,92 @@ I'd like to thank Brian for that great introduction.
 
 ## 3 阅读名片的内容
 
+interesting
+available
+Springdale
+Is she available?
+Something came up.
+
+So, did you meet anyone good last night?
+I got 20 business cards. I talked to a lot of people. A few of them, very interesting.
+How about for the Finance Department?
+Take a look at this one. I wrote some notes on the back.
+She has an MBA from Harvard. Right now, she's working at Network Tek as the CFO.
+Interesting. Is she available?
+She wants to talk to us.
+Great! How about for HR?
+Umm, this guy looks good.
+He's an HR manager in a small company in Springdale.
+He has a BA in HR management.
+He looks ok. That's it for HR?
+Yeah. Sorry.
+It's not a problem. Thanks going for last night.
+Sure.
+Tony said he was going to, but something came up ...
+
+>
+
+Tom Bradley is the chief executive officer(CEO). Paul Adams is the director of Information Technology. Eric Bilardi is the chief operations officer(COO). Sue Kelly is a vice president(VP). Claire O'Donnell is the chief technology officer(CTO). Elaine Campbell is the director of Research and Development. Trisha Smith is the chief financal officer(CFO).
+
+
+
+### Words 
+
+Human Resources         人力资源部门
+Operations              运营部门
+Information Technology  信息技术部门
+Finance                 财务部门
+Sales and Marketing     销售和市场部
+Customer Service        客服服务部门
+Purchasing              采购部
+Legal                   法务部门
+Research and Development 研究和发展部门
+
+chief executive officer(CEO)    首席执行官
+president                       总裁
+vice president(VP)              副总裁
+chief financial officer(CFO)    首席财务官
+chief operations officer(COO)   首席运营官
+chief technology officer(CTO)   首席技术官
+
+### Syntaxes
+
+#### 不规则动词的一般过去时
+
+> 规则动词的过去时态以 -ed 结尾（例如：work – worked）。不规则动词的过去时态有多种形式。以下是一些例子：
+
+meet - met
+get - got
+write - wrote
+find - found
+eat - ate
+I met some interesting people last night.
+
+give - gave
+have - had
+go - went
+see - saw
+come - came
+buy - bought
+take - took
+He gave me his business card.
+
+> 不规则动词一般过去时 否定形式
+
+did + not + 动词原形 
+
+She didn't go with them.
+I didn't buy it.
+
+> 有不规则动词一般过去时的疑问句
+ 
+含有不规则动词的过去时疑问句和含有规则动词的形成方式一样：使用 did + 主语 + 动词原形。
+
+Did you see him last night?
+Did they have dinner at the hotel?
+
+
+
 ## 4 描写工作
 
 
