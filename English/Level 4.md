@@ -35,6 +35,32 @@ Great!
 
 ## 2 谈论即将发生的活动
 
+
+
+
+
+Sally. Could you do me a favor?
+Sure. What do you need?
+Well, Angela and I want to do something special this weekend. It's our 20th wedding anniversary.
+Wow! Twenty years together. Congratulations.
+Thanks. The think is, we don't go out a lot, and I really don't know...
+Could you help me find something interesting?
+Sure. Um, no problem.
+Springdale.com has all the events listed for the city.
+It covers the concert hall, the auditorium... You really should check it out.
+That's a good idea.
+There's an incredible samba band at the Blue Banana.
+That's the hottest nightclub in town right now. Do you and Angela like to dance?
+Hmm. I really don't dance. Is there something a little more, kind of...
+Traditional.
+Yes! Like a classical concert. Beethoven. Or Mozart.
+Here's a play. How about Shakespeare? It's 'Hamlet'.
+Hmm. That's more like it.
+It's in the Main Street Theater on Saturday.
+Angela loves plays. Thank you so much!
+You're welcome!
+
+
 ## 3 计划于朋友晚上外出
 
 ## 4 看电影
