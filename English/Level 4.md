@@ -36,7 +36,24 @@ Great!
 ## 2 谈论即将发生的活动
 
 
+favor
+wedding
+anniversary
+congratulation
+hall
+concert hall
+incredible
+hottest
+traditional
+Beethoven
+Mozart
+Hamlet
+Shakespeare
+adult
+Orchestra
 
+Could you do me a favor?
+That's more like it.
 
 
 Sally. Could you do me a favor?
