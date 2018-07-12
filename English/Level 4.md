@@ -80,6 +80,42 @@ You're welcome!
 
 ## 3 计划于朋友晚上外出
 
+Oh! There's a samba band at, uh...
+Nah, I can't dance to samba.
+You can't dance to anything.
+What?
+Why don't we go to that new sports bar on, uh, Grove Street?
+Harmon's?
+Yeah! They're probably showing the football game.
+I hate sports bars.
+Really? Why?
+Because they're boring. The music's always so loud, it's difficult to have a conversation.
+How about a quiet, relaxing dinner with Pam and Simon?
+We do that every night.
+Okay. You're right. Let's do something different.
+I know! Let's go to a movie. "The Now York killer."
+A horror movie? I don't think so. How about a romance, or a drama?
+Ugh.
+Hey, look! They're playing "Chinatown" at the Roxie Theater.
+Really? It's a classic!
+Yeah. I saw it years ago. It was incredible.
+I'd love to see it again. Can you book the tickets?
+Sure thing.
+Thanks, Jake. I'm gonna go get ready.
+Okay.
+
+
+Hi, Ann! Hey, how was your vacation? You went to Now York, right?
+Yeah.
+How was it?
+Oh, I love Now York! It's a really exciting city.
+Hmm. It's too big and too loud for me. So, what do you do in Now York?
+Well, we went to a musical. That was fun! And we ate at some really interesting restaurants. The food was dilicous.
+It sounds wonderful.
+And the Museum of Modern Art was incredible!
+That's great! Well, I have a meeting. See you later.
+Bye.
+
 ## 4 看电影
 
 Jake!
@@ -109,8 +145,7 @@ Thanks! Oh, and how much the tickets for adult and children?
 Adults are \$13, and kids are \$6.
 
 
-stupid
-website
+
 
 
 
