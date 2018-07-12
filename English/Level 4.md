@@ -82,3 +82,35 @@ You're welcome!
 
 ## 4 看电影
 
+Jake!
+Jake! It's 7 o'clock. The movie starts at 8!
+Okay! Okay! I'm ready.
+Did you book the tickets?
+The tickets?
+The tickets. You booked them, right?
+Ohhh.
+I can't believe it. How could you forget to book the tickets? The 8 o'clock show is sold out now.
+Sally, I'm really sorry. Is there a second show?
+The next show begins at 10:30. There are still some tickets left. But it's over after midnight.
+That sounds good. I'm so sorry. I can't believe I forget. So, uh, do you want to watch some TV?
+This is so stupid!
+
+
+Good afternoon. Springdale Theater.
+Good afternoon. Can you give me some information about the film 'Mommy Mommy'?
+Certainly. What would you like to know?
+When is the next show?
+It's at 3:15.
+That's good. And are there still tickets for it?
+Yes. That's not a problem. Afternoons are never sold out.
+Ok. And can I buy tickets online?
+Yes. Just go to out website, www.springdaletheater.com.
+Thanks! Oh, and how much the tickets for adult and children?
+Adults are \$13, and kids are \$6.
+
+
+stupid
+website
+
+
+
