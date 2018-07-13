@@ -110,7 +110,7 @@ Yeah.
 How was it?
 Oh, I love Now York! It's a really exciting city.
 Hmm. It's too big and too loud for me. So, what do you do in Now York?
-Well, we went to a musical. That was fun! And we ate at some really interesting restaurants. The food was dilicous.
+Well, we went to a musical. That was fun! And we ate at some really interesting restaurants. The food was delicous.
 It sounds wonderful.
 And the Museum of Modern Art was incredible!
 That's great! Well, I have a meeting. See you later.
